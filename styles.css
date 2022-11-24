@@ -1,0 +1,36 @@
+* {
+	background-color: #0b161d;
+}
+header {
+	text-align : right;
+	background-color : #0f1d26;
+	padding : 0px 0px 0px 0px
+}
+
+h1 {
+	color : #adff2f;
+	text-align-last : left;
+	background-color: transparent;
+	padding : 0px 0px 0px 20px;
+}
+.log {
+	color : #ff3a83;
+	background-color : transparent;
+}
+p { color : #ffff4c; }
+article {
+	text-align : center;
+	font-weight : bold;
+	letter-spacing : 0.7em;
+	margin : ;
+}
+footer {
+	background-color : #0f1d26;
+	height : 25px;
+}
+footer p {
+	text-align-last : right;
+	font-style : italic;
+	background-color : transparent;
+	padding : 7px 3px 0px 0px
+}
