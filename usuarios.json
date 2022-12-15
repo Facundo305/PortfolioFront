@@ -1,0 +1,14 @@
+[
+	{
+		"nombre": "admin",
+		"apellido:": "_",
+		"contraseña": "admin1",
+		"correo": "admin@1.com"
+	},
+	{
+		"nombre": "usuario",
+		"apellido": "apellido",
+		"contraseña": "password",
+		"correo": "usuario@correo.com"
+	}
+]

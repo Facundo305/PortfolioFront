@@ -1,0 +1,5 @@
+#   * = todos   ej: *.txt ignora todo archivo de texto
+#   ! = excluir
+#   # = comentario
+#   / = ignora una ruta
+node_modules
